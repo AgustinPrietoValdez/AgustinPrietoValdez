@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Mobile Robotics &amp; Autonomous Systems</strong> · ROS 2 · SLAM · Nav2 · Embedded
   <br/>
-  Incoming Engineering Student @ Aalborg University · Esbjerg, Denmark
+  Incoming Engineering Student @ Aalborg University · Denmark
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 I'm an electronics engineering student focused on mobile robotics and autonomous systems.
 I build robots end-to-end — from embedded firmware up to the ROS 2 navigation stack — and I
 like the messy middle where software meets the physical world. Two years into an electronics
-engineering degree (UTN, Argentina), I'm continuing at Aalborg University (Esbjerg, Denmark)
+engineering degree (UTN, Argentina), I'm continuing at Aalborg University, Denmark
 from September 2026.
 
 **Open to internship / student / graduate robotics roles in Denmark &amp; EU** — mobile robots,
