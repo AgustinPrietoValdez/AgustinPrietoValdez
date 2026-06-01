@@ -75,6 +75,25 @@ React and TypeScript, syncing via Supabase. MIT licensed.
 
 ---
 
+## Competition robots — EDNAROBOTICS
+
+[**competition-robots**](https://github.com/AgustinPrietoValdez/competition-robots) · custom-built competition robots — electronics, firmware &amp; mechanics designed from scratch with team **EDNAROBOTICS**
+
+KiCad PCBs, Fusion 360 mechanics and C/C++ firmware on STM32/Arduino, built and raced at national and international robotics competitions.
+
+- 🧭 **MISA** — maze / micromouse; latest 2026 build on **STM32H5** (half- &amp; full-size). 🥇 1st place, National Maze — Argentine National Robotics League (2023).
+- 🥋 **TATAMI 1** — sumo robot; custom multi-board STM32 design (QTR edge sensors, IFX9201 drivers, 3D-modeled chassis).
+- 🤺 **RUCHO** — mini-sumo; modular C++ firmware + custom PCB (up to V6). 🥉 3rd place, National Mini-sumo (2024).
+- 🏆 Also: two 1st prizes + one 2nd at **Robotraffic International** (Technion, Israel, 2022).
+
+![KiCad](https://img.shields.io/badge/PCB_Design_(KiCad)-314CB6?style=flat&logo=kicad&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6F00?style=flat&logo=autodesk&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+---
+
 ## Skills &amp; Tech
 
 **Robotics &amp; ROS 2**
